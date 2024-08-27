@@ -1,0 +1,2 @@
+Nombre: Liliana, Apellido: g, Fecha de Nacimiento: 1212-12-12, Email: liliana@gmail.com, Contraseña: 1234567890, Género: Femenino
+---------------------------------------------
